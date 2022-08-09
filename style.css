@@ -1,7 +1,8 @@
 body{
     font-size: 100%;
-    background: linear-gradient(to right, #82bb40 0%, #273bf3 100%);
+    background: linear-gradient(to right, #358faa 0%, #161c57 100%);
     margin-block-end: auto;
+    color: black;
 }
 .escola{
     display: flex;
@@ -14,19 +15,18 @@ body{
     font-stretch: normal;
     line-height: initial;
     font-size: 40px;
-    color: rgb(3, 1, 77);    
+    color: rgb(237, 236, 243);    
    
     }
 
     
-
 .colegio{font-family: "Noto Sans script=latin rev=3";
     font-weight: 400;
     font-style: normal;
     font-stretch: normal;
     line-height: initial;
     font-size: 25px;
-    color: rgb(16, 16, 17);
+    color: rgb(219, 219, 231);
     display: flex;
     flex-direction: column;
     
@@ -34,33 +34,47 @@ body{
 .cabecalho {
         display: flex;
         flex-direction: row-reverse;
-        justify-content: right;
-        padding: 18px;
-        font-family: "Noto Sans script=latin rev=3";
-        font-weight: 700;
-        font-style: normal;
+        justify-content: right; 
         font-stretch: normal;
         line-height: initial;
         font-size: 28px;
-        border-top: 0.4px solid cornflowerblue;
-        border-bottom: 0.4px solid cornflowerblue;;
+        border-top: 0.4px solid rgb(211, 206, 207);
+        border-bottom: 0.4px solid rgb(204, 207, 211);;
+        color: aliceblue;
         
 }
 .imagem{
     display: block;
     margin: 0 auto;
 }
+.para{
+    display: block;
+    margin: 0 auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
 .rodape{
+    display: block;
+    margin: 0 auto;
+    color: rgb(172, 171, 169);
+    margin-top: 150px;
+    margin-bottom: 150px;
     margin-left: 450px;
-    color: rgb(39, 1, 1);
+    
     }
+
 .item-botao:hover{ 
-    background-color: rgb(2, 2, 58); 
+    background-color: rgb(201, 152, 17); 
     border-radius: 20px;
     margin: 5px;  
+    color: antiquewhite;
+    margin: 0 auto;
     
 }
 #botao{
-    margin-bottom: 40px;
+   
     justify-content: space-around;
+    color: rgb(14, 14, 12);
+    
 }
