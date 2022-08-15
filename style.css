@@ -50,16 +50,16 @@ body{
 .para{
     display: block;
     margin: 0 auto;
-    margin-top: 25px;
-    margin-bottom: 25px;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 .rodape{
     display: block;
     margin: 0 auto;
     color: rgb(172, 171, 169);
-    margin-top: 150px;
-    margin-bottom: 150px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     margin-left: 450px;
     
     }
