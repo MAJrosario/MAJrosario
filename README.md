@@ -1,1 +1,1 @@
-### OLA! Meu nome é Poliana, esse projeto e para pensamento computacional.
+### OLA! Meu nome é Poliana, esses são os meus projetos de pensamento computacional
