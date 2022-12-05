@@ -1,1 +1,0 @@
-ADOÇÃO DE ANIMAIS
